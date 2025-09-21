@@ -4,3 +4,4 @@
 *.ptx
 *.cubin
 *.fatbin
+third_party/DeepGEMM/*
